@@ -39,7 +39,7 @@ but I got it, this projet made me good on vue.js, and work with a team (this is 
 <ul>
 <br>
     <li> Vue.js
-    <li> Nuxt.js
+    <li> java
     <li> Api
     <li> Html / Css
 </ul>
